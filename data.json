@@ -1,19 +1,15 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "fullname": "Ki Hajar Dewantoro",
-      "born": "1883",
-      "died": "1959",
-      "description": "Pengajar dan menteri pemerintahan, mendirikan Taman Siswa, saudara Suryopranoto",
-      "establishment": "1959",
-      "imgUrl": "https://mmc.tirto.id/image/otf/400x0/2017/06/26/Pangeran_Diponegoro_tirto.id_ratio-3x4.jpg"
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
+      "values": {
+        "fullName": "Amirul Fatta",
+        "born": "1883",
+        "died": "1959",
+        "description": "Pengajar dan menteri pemerintahan, mendirikan Taman Siswa, saudara Suryopranoto",
+        "establishment": "1959",
+        "imgUrl": "https://mmc.tirto.id/image/otf/400x0/2017/06/26/Pangeran_Diponegoro_tirto.id_ratio-3x4.jpg"
+      },
+      "id": 4
     },
     {
       "values": {
@@ -24,7 +20,7 @@
         "establishment": "1959",
         "imgUrl": "https://mmc.tirto.id/image/otf/400x0/2017/06/26/Pangeran_Diponegoro_tirto.id_ratio-3x4.jpg"
       },
-      "id": 4
+      "id": 5
     }
   ]
 }
